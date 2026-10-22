@@ -1,0 +1,17 @@
+# Secret API keys and credentials
+.env
+credentials.json
+token.json
+
+# Local databases and cache
+memory.db
+.cache
+__pycache__/
+*.pyc
+
+# Virtual environments and temporary files
+venv/
+.venv/
+*.mp3
+*.log
+.vscode/
